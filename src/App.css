@@ -1,0 +1,12 @@
+button{
+  margin:5px;
+  padding:4px;
+  background-color: plum;
+  border-color: rgb(58, 187, 226);
+  border-radius: 50%;
+}
+.good{
+  
+  border-color: black;
+  text-align: center;
+}
